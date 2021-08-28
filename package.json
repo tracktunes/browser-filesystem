@@ -1,0 +1,25 @@
+{
+    "name": "browser-filesystem",
+    "version": "0.0.1-alpha",
+    "author": "Doron Tal",
+    "license": "MIT",
+    "description": "Fast, minimal filesystem for browsers with Filesystem API",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ],
+    "keywords": [
+        "library",
+        "typescript",
+        "filesystem",
+        "fs"
+    ],
+    "bugs": {
+        "url": "https://github.com/tracktunes/browser-filesystem/issues"
+    },
+    "dependencies": {
+        "typescript": "^4.2.3"
+    },
+    "devDependencies": {}
+}
